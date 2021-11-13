@@ -1,0 +1,7 @@
+C:\Users\54926\source\repos\ObserverPatternClienteProducto\ObserverPatternClienteProducto\bin\Debug\ObserverPatternClienteProducto.exe.config
+C:\Users\54926\source\repos\ObserverPatternClienteProducto\ObserverPatternClienteProducto\bin\Debug\ObserverPatternClienteProducto.exe
+C:\Users\54926\source\repos\ObserverPatternClienteProducto\ObserverPatternClienteProducto\bin\Debug\ObserverPatternClienteProducto.pdb
+C:\Users\54926\source\repos\ObserverPatternClienteProducto\ObserverPatternClienteProducto\obj\Debug\ObserverPatternClienteProducto.csproj.AssemblyReference.cache
+C:\Users\54926\source\repos\ObserverPatternClienteProducto\ObserverPatternClienteProducto\obj\Debug\ObserverPatternClienteProducto.csproj.CoreCompileInputs.cache
+C:\Users\54926\source\repos\ObserverPatternClienteProducto\ObserverPatternClienteProducto\obj\Debug\ObserverPatternClienteProducto.exe
+C:\Users\54926\source\repos\ObserverPatternClienteProducto\ObserverPatternClienteProducto\obj\Debug\ObserverPatternClienteProducto.pdb
